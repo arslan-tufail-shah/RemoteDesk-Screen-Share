@@ -1,0 +1,22 @@
+{
+  "CC-Admin": {
+    "role": "manager",
+    "salt": "063a2bffc84abd310a68d31cf7a0097d",
+    "hash": "2c5d69be07f792b070b83849549501a58f5dbafaf6f4934be8557d0ce63f83c1"
+  },
+  "Hamza": {
+    "role": "supervisor",
+    "salt": "0612611a3551c71af24f97bccdba10f2",
+    "hash": "8ac75191e9fd01763a0a663694999ccb22271e2698034aa2dfa20e062707dd30"
+  },
+  "Shoaib": {
+    "role": "supervisor",
+    "salt": "7d9437320c98f2d42e19b487754c6d20",
+    "hash": "db15e49d19d7576661c6a646d236733c2e464e683b4dbeff8e54aadffba1068e"
+  },
+  "Ahsan": {
+    "role": "supervisor",
+    "salt": "88ebb90e22dcd7bfe522d744173b18d2",
+    "hash": "0c6c34433dec4f8259b2560bd1798dd7b5056ced5400a522e40a4e61cd98de0a"
+  }
+}
